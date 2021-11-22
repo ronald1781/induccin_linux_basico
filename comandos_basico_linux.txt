@@ -1,4 +1,5 @@
-
+ 
+ 
 Comandos básicos de Linux
 1. comando pwd
 2. comando cd
